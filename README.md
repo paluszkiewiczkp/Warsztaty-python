@@ -1,0 +1,2 @@
+# Warsztaty-python
+notatki
